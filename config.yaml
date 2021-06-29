@@ -1,5 +1,5 @@
 ---
-baseURL: "/"
+baseURL: https://thelegit.netlify.app
 languageCode: en-us
 title: TheLegit
 module:
